@@ -37,4 +37,6 @@ const arr2:number[] = [1,8,3,15]
 arr2.push(7)
 
 //union operators just like or operator 
+const arr3 :boolean[] = [true]
+arr3.push(false)
 

@@ -26,3 +26,5 @@ arr.push("blue");
 var arr2 = [1, 8, 3, 15];
 arr2.push(7);
 //union operators just like or operator 
+var arr3 = [true];
+arr3.push(false);
